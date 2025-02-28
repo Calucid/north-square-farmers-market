@@ -16,6 +16,7 @@ import Pricing from "./pages/Pricing";
 import ScrollToTop from "./components/scrollToTop";
 import Hours from "./pages/Hours";
 import Visit from "./pages/Visit";
+import Vendors from "./pages/Vendors";
 
 
 function App() {
@@ -35,7 +36,7 @@ function App() {
         <Route path="/events" element={<Events />} />
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/pricing" element={<Pricing />} />
-        <Route path="/hours" element={<Hours />} />
+        <Route path="/vendors" element={<Vendors />} />
         <Route path="/visit" element={<Visit />} />
 
 

@@ -103,7 +103,7 @@ const Home = () => {
           <Text fontSize="lg" mb={6}>
             Experience the best local produce and handmade goods at North Square Farmers Market.
           </Text>
-          <Button as={Link} to="/contact" colorScheme="yellow" size="lg">
+          <Button as={Link} to="/visit" colorScheme="yellow" size="lg">
             Get Directions
           </Button>
         </Container>
