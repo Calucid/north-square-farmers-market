@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/north-square-farmers-market/static/js/main.dc5b339a.js",
+    "main.js": "/north-square-farmers-market/static/js/main.4811d2e0.js",
     "index.html": "/north-square-farmers-market/index.html",
-    "main.dc5b339a.js.map": "/north-square-farmers-market/static/js/main.dc5b339a.js.map"
+    "main.4811d2e0.js.map": "/north-square-farmers-market/static/js/main.4811d2e0.js.map"
   },
   "entrypoints": [
-    "static/js/main.dc5b339a.js"
+    "static/js/main.4811d2e0.js"
   ]
 }
